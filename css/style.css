@@ -1,0 +1,63 @@
+.heading {
+	font-size: 40px;
+	font-family: 'Aref Ruqaa', serif;
+	padding-bottom: 5px;
+}
+ span {
+ 	color: black;
+ }
+.headings {
+	font-size: 18px;
+	font-family: 'Architects Daughter', cursive;
+	padding-top: 25px;
+}
+.image {
+	position: relative;
+	width: 100%;
+	opacity: 0.2%;
+}
+h2 {
+	color: white;
+	font-size: 40px;
+	font-family: 'Aref Ruqaa', serif;
+	position: absolute;
+	top: 90px;
+	right: 420px;
+	
+}
+
+.pad {
+	padding-top: 18px;
+}
+
+.shadow {
+	box-shadow: 8px 8px 8px #aaa;
+	padding-top: 5px;
+}
+.name {
+	font-size: 25px;
+	padding-top: 10px;
+	padding-left: 110px;
+	font-family: 'Aclonica', sans-serif;
+	font-weight: 18px;
+}
+
+.storyheading {
+	color: #15adf9;
+	font-size: 30px;
+	font-family: 'Architects Daughter', cursive;
+}
+
+.story {
+	font-size: 20px;
+	font-family: 'Racing Sans One', cursive;
+	padding-top: 15px;
+}
+
+.space {
+	padding-top: 20px;
+}
+
+body {
+	background-image: url(../images/background-images-for-websites-016.jpg);
+}
